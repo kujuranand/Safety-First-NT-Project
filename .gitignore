@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# files over 100mb
+/Assets/Editor/Migration/com.ptc.vuforia.engine-10.10.2.tgz
+/Packages/com.ptc.vuforia.engine-10.10.2.tgz
+/Packages/com.ptc.vuforia.engine-10.14.4.tgz
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
